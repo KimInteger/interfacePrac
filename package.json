@@ -1,0 +1,12 @@
+{
+  "name": "interfaceprac",
+  "version": "1.0.0",
+  "description": "\"GPT에게 물어본 interface연습\"",
+  "main": "./dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "npx babel src --out-dir dist --extensions '.ts'"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
